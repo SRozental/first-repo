@@ -4,3 +4,5 @@ master was here
 
 Здесь был Петя!
 Здесь был Вася!
+
+Lucky was here
